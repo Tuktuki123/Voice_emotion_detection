@@ -1,0 +1,2 @@
+# Voice_emotion_detection
+Simple Voice_emotion_detection using Machine Learning
